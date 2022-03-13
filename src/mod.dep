@@ -1,0 +1,19 @@
+src/mod.o: src/mod.c src/mod.h \
+ C:/Users/Speedy/Desktop/nolibgs_hello_worlds-main/psyq/include/libapi.h \
+ C:/Users/Speedy/Desktop/nolibgs_hello_worlds-main/psyq/include/kernel.h \
+ C:/Users/Speedy/Desktop/nolibgs_hello_worlds-main/psyq/include/r3000.h \
+ C:/Users/Speedy/Desktop/nolibgs_hello_worlds-main/psyq/include/asm.h \
+ C:/Users/Speedy/Desktop/nolibgs_hello_worlds-main/psyq/include/libspu.h \
+ src/../../thirdparty/nugget/common/hardware/hwregs.h \
+ C:/Users/Speedy/Desktop/nolibgs_hello_worlds-main/thirdparty/nugget/common/compiler/stdint.h \
+ c:\users\speedy\appdata\roaming\mips\mips\lib\gcc\mipsel-none-elf\11.2.0\include\stdint.h \
+ c:\users\speedy\appdata\roaming\mips\mips\lib\gcc\mipsel-none-elf\11.2.0\include\stdint-gcc.h \
+ src/../../thirdparty/nugget/common/hardware/irq.h \
+ src/../../thirdparty/nugget/common/syscalls/syscalls.h \
+ C:/Users/Speedy/Desktop/nolibgs_hello_worlds-main/psyq/include/stdarg.h \
+ C:/Users/Speedy/Desktop/nolibgs_hello_worlds-main/psyq/include/stddef.h \
+ C:/Users/Speedy/Desktop/nolibgs_hello_worlds-main/thirdparty/nugget/common/psxlibc/circularbuffer.h \
+ C:/Users/Speedy/Desktop/nolibgs_hello_worlds-main/thirdparty/nugget/common/psxlibc/device.h \
+ C:/Users/Speedy/Desktop/nolibgs_hello_worlds-main/thirdparty/nugget/common/psxlibc/stdio.h \
+ C:/Users/Speedy/Desktop/nolibgs_hello_worlds-main/thirdparty/nugget/common/psxlibc/handlers.h \
+ src/../../thirdparty/nugget/modplayer/modplayer.h
